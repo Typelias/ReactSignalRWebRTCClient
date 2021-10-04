@@ -1,0 +1,1 @@
+Testing ground for WebRTC with a signalR singaling server. At the moment there are som bugs but video and audio is working :)
